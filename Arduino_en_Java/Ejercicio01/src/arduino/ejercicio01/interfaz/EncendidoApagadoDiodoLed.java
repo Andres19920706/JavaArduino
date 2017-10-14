@@ -1,6 +1,7 @@
 /*
  * Ejemplo de transmison por el puerto serial.
- * On/Off de un diodo Led a través de Java
+ *  On/Off de un diodo Led a través de Java
+ * Datos recibios por Arduino Mega
  */
 package arduino.ejercicio01.interfaz;
 
